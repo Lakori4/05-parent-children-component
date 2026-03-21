@@ -1,0 +1,10 @@
+
+
+.container {
+    border-radius: 8px;
+    box-shadow: 2px, 2px, #000;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,7 +1,12 @@
+import ContainerBackHome from "@/app/components/ContainerBackHome"
+
 const Home = () => {
   return (
     <div>
-      <h1>This will fucking works</h1>
+      <h1>Our little page</h1>
+      <ContainerBackHome>
+        <p>Howdy</p>        
+      </ContainerBackHome>
     </div>
   )
 }
